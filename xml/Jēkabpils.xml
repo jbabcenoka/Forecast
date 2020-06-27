@@ -1,0 +1,420 @@
+<?xml version="1.0"?>
+<weatherdata>
+  <location>
+    <name>J&#x113;kabpils</name>
+    <type>Regional capital</type>
+    <country>Latvia</country>
+    <timezone id="Europe/Riga" utcoffsetMinutes="180"/>
+    <location altitude="83" latitude="56.49903" longitude="25.85735" geobase="geonames" geobaseid="459283"/>
+  </location>
+  <credit>
+    <!--In order to use the free weather data from yr no, you HAVE to display 
+the following text clearly visible on your web page. The text should be a 
+link to the specified URL.-->
+    <!--Please read more about our conditions and guidelines at http://om.yr.no/verdata/  English explanation at http://om.yr.no/verdata/free-weather-data/-->
+    <link text="Weather forecast from Yr, delivered by the Norwegian Meteorological Institute and the NRK" url="http://www.yr.no/place/Latvia/Jekabpils/J&#x113;kabpils/"/>
+  </credit>
+  <links>
+    <link id="xmlSource" url="http://www.yr.no/place/Latvia/Jekabpils/J&#x113;kabpils/forecast.xml"/>
+    <link id="xmlSourceHourByHour" url="http://www.yr.no/place/Latvia/Jekabpils/J&#x113;kabpils/forecast_hour_by_hour.xml"/>
+    <link id="overview" url="http://www.yr.no/place/Latvia/Jekabpils/J&#x113;kabpils/"/>
+    <link id="hourByHour" url="http://www.yr.no/place/Latvia/Jekabpils/J&#x113;kabpils/hour_by_hour"/>
+    <link id="longTermForecast" url="http://www.yr.no/place/Latvia/Jekabpils/J&#x113;kabpils/long"/>
+  </links>
+  <meta>
+    <lastupdate>2020-06-27T12:58:00</lastupdate>
+    <nextupdate>2020-06-27T14:02:00</nextupdate>
+  </meta>
+  <sun rise="2020-06-27T04:28:23" set="2020-06-27T22:10:26"/>
+  <forecast>
+    <tabular>
+      <time from="2020-06-27T14:00:00" to="2020-06-27T18:00:00" period="2">
+        <!-- Valid from 2020-06-27T14:00:00 to 2020-06-27T18:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-06-27T14:00:00 -->
+        <windDirection deg="179.3" code="S" name="South"/>
+        <windSpeed mps="3.4" name="Gentle breeze"/>
+        <temperature unit="celsius" value="31"/>
+        <pressure unit="hPa" value="1014.7"/>
+      </time>
+      <time from="2020-06-27T18:00:00" to="2020-06-28T00:00:00" period="3">
+        <!-- Valid from 2020-06-27T18:00:00 to 2020-06-28T00:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-06-27T18:00:00 -->
+        <windDirection deg="168.6" code="SSE" name="South-southeast"/>
+        <windSpeed mps="3.2" name="Light breeze"/>
+        <temperature unit="celsius" value="30"/>
+        <pressure unit="hPa" value="1011.8"/>
+      </time>
+      <time from="2020-06-28T00:00:00" to="2020-06-28T06:00:00" period="0">
+        <!-- Valid from 2020-06-28T00:00:00 to 2020-06-28T06:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-06-28T00:00:00 -->
+        <windDirection deg="98.0" code="E" name="East"/>
+        <windSpeed mps="2.5" name="Light breeze"/>
+        <temperature unit="celsius" value="22"/>
+        <pressure unit="hPa" value="1009.6"/>
+      </time>
+      <time from="2020-06-28T06:00:00" to="2020-06-28T12:00:00" period="1">
+        <!-- Valid from 2020-06-28T06:00:00 to 2020-06-28T12:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-06-28T06:00:00 -->
+        <windDirection deg="2.2" code="N" name="North"/>
+        <windSpeed mps="0.7" name="Light air"/>
+        <temperature unit="celsius" value="19"/>
+        <pressure unit="hPa" value="1009.0"/>
+      </time>
+      <time from="2020-06-28T12:00:00" to="2020-06-28T18:00:00" period="2">
+        <!-- Valid from 2020-06-28T12:00:00 to 2020-06-28T18:00:00 -->
+        <symbol number="2" numberEx="2" name="Fair" var="02d"/>
+        <precipitation value="0" minvalue="0" maxvalue="2.1"/>
+        <!-- Valid at 2020-06-28T12:00:00 -->
+        <windDirection deg="300.1" code="WNW" name="West-northwest"/>
+        <windSpeed mps="2.4" name="Light breeze"/>
+        <temperature unit="celsius" value="26"/>
+        <pressure unit="hPa" value="1008.5"/>
+      </time>
+      <time from="2020-06-28T18:00:00" to="2020-06-29T00:00:00" period="3">
+        <!-- Valid from 2020-06-28T18:00:00 to 2020-06-29T00:00:00 -->
+        <symbol number="2" numberEx="2" name="Fair" var="02d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-06-28T18:00:00 -->
+        <windDirection deg="308.2" code="NW" name="Northwest"/>
+        <windSpeed mps="2.4" name="Light breeze"/>
+        <temperature unit="celsius" value="29"/>
+        <pressure unit="hPa" value="1007.7"/>
+      </time>
+      <time from="2020-06-29T00:00:00" to="2020-06-29T06:00:00" period="0">
+        <!-- Valid from 2020-06-29T00:00:00 to 2020-06-29T06:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01n"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-06-29T00:00:00 -->
+        <windDirection deg="22.4" code="NNE" name="North-northeast"/>
+        <windSpeed mps="0.7" name="Light air"/>
+        <temperature unit="celsius" value="22"/>
+        <pressure unit="hPa" value="1008.8"/>
+      </time>
+      <time from="2020-06-29T06:00:00" to="2020-06-29T12:00:00" period="1">
+        <!-- Valid from 2020-06-29T06:00:00 to 2020-06-29T12:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-06-29T06:00:00 -->
+        <windDirection deg="238.6" code="WSW" name="West-southwest"/>
+        <windSpeed mps="0.5" name="Light air"/>
+        <temperature unit="celsius" value="18"/>
+        <pressure unit="hPa" value="1009.2"/>
+      </time>
+      <time from="2020-06-29T12:00:00" to="2020-06-29T18:00:00" period="2">
+        <!-- Valid from 2020-06-29T12:00:00 to 2020-06-29T18:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+        <precipitation value="0" minvalue="0" maxvalue="4.0"/>
+        <!-- Valid at 2020-06-29T12:00:00 -->
+        <windDirection deg="176.7" code="S" name="South"/>
+        <windSpeed mps="2.5" name="Light breeze"/>
+        <temperature unit="celsius" value="28"/>
+        <pressure unit="hPa" value="1008.8"/>
+      </time>
+      <time from="2020-06-29T15:00:00" to="2020-06-29T21:00:00" period="3">
+        <!-- Valid from 2020-06-29T15:00:00 to 2020-06-29T21:00:00 -->
+        <symbol number="9" numberEx="9" name="Rain" var="09"/>
+        <precipitation value="4.7" minvalue="0" maxvalue="10.0"/>
+        <!-- Valid at 2020-06-29T15:00:00 -->
+        <windDirection deg="162.9" code="SSE" name="South-southeast"/>
+        <windSpeed mps="3.3" name="Light breeze"/>
+        <temperature unit="celsius" value="30"/>
+        <pressure unit="hPa" value="1006.9"/>
+      </time>
+      <time from="2020-06-29T21:00:00" to="2020-06-30T03:00:00" period="0">
+        <!-- Valid from 2020-06-29T21:00:00 to 2020-06-30T03:00:00 -->
+        <symbol number="9" numberEx="9" name="Rain" var="09"/>
+        <precipitation value="2.8" minvalue="0.2" maxvalue="4.0"/>
+        <!-- Valid at 2020-06-29T21:00:00 -->
+        <windDirection deg="117.2" code="ESE" name="East-southeast"/>
+        <windSpeed mps="2.0" name="Light breeze"/>
+        <temperature unit="celsius" value="21"/>
+        <pressure unit="hPa" value="1004.7"/>
+      </time>
+      <time from="2020-06-30T03:00:00" to="2020-06-30T09:00:00" period="1">
+        <!-- Valid from 2020-06-30T03:00:00 to 2020-06-30T09:00:00 -->
+        <symbol number="10" numberEx="10" name="Heavy rain" var="10"/>
+        <precipitation value="6.8" minvalue="2.2" maxvalue="9.7"/>
+        <!-- Valid at 2020-06-30T03:00:00 -->
+        <windDirection deg="173.9" code="S" name="South"/>
+        <windSpeed mps="1.7" name="Light breeze"/>
+        <temperature unit="celsius" value="18"/>
+        <pressure unit="hPa" value="1001.6"/>
+      </time>
+      <time from="2020-06-30T09:00:00" to="2020-06-30T15:00:00" period="2">
+        <!-- Valid from 2020-06-30T09:00:00 to 2020-06-30T15:00:00 -->
+        <symbol number="5" numberEx="5" name="Rain showers" var="05d"/>
+        <precipitation value="2.8" minvalue="0" maxvalue="5.2"/>
+        <!-- Valid at 2020-06-30T09:00:00 -->
+        <windDirection deg="140.2" code="SE" name="Southeast"/>
+        <windSpeed mps="1.2" name="Light air"/>
+        <temperature unit="celsius" value="18"/>
+        <pressure unit="hPa" value="998.2"/>
+      </time>
+      <time from="2020-06-30T15:00:00" to="2020-06-30T21:00:00" period="3">
+        <!-- Valid from 2020-06-30T15:00:00 to 2020-06-30T21:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-06-30T15:00:00 -->
+        <windDirection deg="269.5" code="W" name="West"/>
+        <windSpeed mps="5.4" name="Gentle breeze"/>
+        <temperature unit="celsius" value="20"/>
+        <pressure unit="hPa" value="1001.1"/>
+      </time>
+      <time from="2020-06-30T21:00:00" to="2020-07-01T03:00:00" period="0">
+        <!-- Valid from 2020-06-30T21:00:00 to 2020-07-01T03:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-06-30T21:00:00 -->
+        <windDirection deg="253.0" code="WSW" name="West-southwest"/>
+        <windSpeed mps="3.7" name="Gentle breeze"/>
+        <temperature unit="celsius" value="18"/>
+        <pressure unit="hPa" value="1002.9"/>
+      </time>
+      <time from="2020-07-01T03:00:00" to="2020-07-01T09:00:00" period="1">
+        <!-- Valid from 2020-07-01T03:00:00 to 2020-07-01T09:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-01T03:00:00 -->
+        <windDirection deg="220.4" code="SW" name="Southwest"/>
+        <windSpeed mps="3.7" name="Gentle breeze"/>
+        <temperature unit="celsius" value="14"/>
+        <pressure unit="hPa" value="1003.5"/>
+      </time>
+      <time from="2020-07-01T09:00:00" to="2020-07-01T15:00:00" period="2">
+        <!-- Valid from 2020-07-01T09:00:00 to 2020-07-01T15:00:00 -->
+        <symbol number="5" numberEx="5" name="Rain showers" var="05d"/>
+        <precipitation value="2.4" minvalue="0" maxvalue="3.1"/>
+        <!-- Valid at 2020-07-01T09:00:00 -->
+        <windDirection deg="216.8" code="SW" name="Southwest"/>
+        <windSpeed mps="4.9" name="Gentle breeze"/>
+        <temperature unit="celsius" value="16"/>
+        <pressure unit="hPa" value="1001.1"/>
+      </time>
+      <time from="2020-07-01T15:00:00" to="2020-07-01T21:00:00" period="3">
+        <!-- Valid from 2020-07-01T15:00:00 to 2020-07-01T21:00:00 -->
+        <symbol number="5" numberEx="5" name="Rain showers" var="05d"/>
+        <precipitation value="2.1" minvalue="0" maxvalue="2.1"/>
+        <!-- Valid at 2020-07-01T15:00:00 -->
+        <windDirection deg="236.6" code="WSW" name="West-southwest"/>
+        <windSpeed mps="6.1" name="Moderate breeze"/>
+        <temperature unit="celsius" value="17"/>
+        <pressure unit="hPa" value="1001.8"/>
+      </time>
+      <time from="2020-07-01T21:00:00" to="2020-07-02T03:00:00" period="0">
+        <!-- Valid from 2020-07-01T21:00:00 to 2020-07-02T03:00:00 -->
+        <symbol number="2" numberEx="2" name="Fair" var="02n"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-01T21:00:00 -->
+        <windDirection deg="250.4" code="WSW" name="West-southwest"/>
+        <windSpeed mps="4.8" name="Gentle breeze"/>
+        <temperature unit="celsius" value="17"/>
+        <pressure unit="hPa" value="1005.2"/>
+      </time>
+      <time from="2020-07-02T03:00:00" to="2020-07-02T09:00:00" period="1">
+        <!-- Valid from 2020-07-02T03:00:00 to 2020-07-02T09:00:00 -->
+        <symbol number="2" numberEx="2" name="Fair" var="02d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-02T03:00:00 -->
+        <windDirection deg="228.4" code="SW" name="Southwest"/>
+        <windSpeed mps="3.9" name="Gentle breeze"/>
+        <temperature unit="celsius" value="13"/>
+        <pressure unit="hPa" value="1007.9"/>
+      </time>
+      <time from="2020-07-02T09:00:00" to="2020-07-02T15:00:00" period="2">
+        <!-- Valid from 2020-07-02T09:00:00 to 2020-07-02T15:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-02T09:00:00 -->
+        <windDirection deg="240.5" code="WSW" name="West-southwest"/>
+        <windSpeed mps="4.7" name="Gentle breeze"/>
+        <temperature unit="celsius" value="17"/>
+        <pressure unit="hPa" value="1009.9"/>
+      </time>
+      <time from="2020-07-02T15:00:00" to="2020-07-02T21:00:00" period="3">
+        <!-- Valid from 2020-07-02T15:00:00 to 2020-07-02T21:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-02T15:00:00 -->
+        <windDirection deg="258.2" code="WSW" name="West-southwest"/>
+        <windSpeed mps="5.2" name="Gentle breeze"/>
+        <temperature unit="celsius" value="20"/>
+        <pressure unit="hPa" value="1011.3"/>
+      </time>
+      <time from="2020-07-02T21:00:00" to="2020-07-03T03:00:00" period="0">
+        <!-- Valid from 2020-07-02T21:00:00 to 2020-07-03T03:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n"/>
+        <precipitation value="0" minvalue="0" maxvalue="0.6"/>
+        <!-- Valid at 2020-07-02T21:00:00 -->
+        <windDirection deg="275.4" code="W" name="West"/>
+        <windSpeed mps="1.4" name="Light air"/>
+        <temperature unit="celsius" value="19"/>
+        <pressure unit="hPa" value="1011.4"/>
+      </time>
+      <time from="2020-07-03T03:00:00" to="2020-07-03T09:00:00" period="1">
+        <!-- Valid from 2020-07-03T03:00:00 to 2020-07-03T09:00:00 -->
+        <symbol number="9" numberEx="9" name="Rain" var="09"/>
+        <precipitation value="2.6" minvalue="0" maxvalue="2.6"/>
+        <!-- Valid at 2020-07-03T03:00:00 -->
+        <windDirection deg="163.4" code="SSE" name="South-southeast"/>
+        <windSpeed mps="0.7" name="Light air"/>
+        <temperature unit="celsius" value="14"/>
+        <pressure unit="hPa" value="1011.8"/>
+      </time>
+      <time from="2020-07-03T09:00:00" to="2020-07-03T15:00:00" period="2">
+        <!-- Valid from 2020-07-03T09:00:00 to 2020-07-03T15:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+        <precipitation value="0" minvalue="0" maxvalue="1.6"/>
+        <!-- Valid at 2020-07-03T09:00:00 -->
+        <windDirection deg="176.2" code="S" name="South"/>
+        <windSpeed mps="1.0" name="Light air"/>
+        <temperature unit="celsius" value="17"/>
+        <pressure unit="hPa" value="1012.6"/>
+      </time>
+      <time from="2020-07-03T15:00:00" to="2020-07-03T21:00:00" period="3">
+        <!-- Valid from 2020-07-03T15:00:00 to 2020-07-03T21:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+        <precipitation value="0" minvalue="0" maxvalue="1.5"/>
+        <!-- Valid at 2020-07-03T15:00:00 -->
+        <windDirection deg="292.3" code="WNW" name="West-northwest"/>
+        <windSpeed mps="2.8" name="Light breeze"/>
+        <temperature unit="celsius" value="21"/>
+        <pressure unit="hPa" value="1013.0"/>
+      </time>
+      <time from="2020-07-03T21:00:00" to="2020-07-04T03:00:00" period="0">
+        <!-- Valid from 2020-07-03T21:00:00 to 2020-07-04T03:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n"/>
+        <precipitation value="0" minvalue="0" maxvalue="1.2"/>
+        <!-- Valid at 2020-07-03T21:00:00 -->
+        <windDirection deg="42.2" code="NE" name="Northeast"/>
+        <windSpeed mps="1.2" name="Light air"/>
+        <temperature unit="celsius" value="19"/>
+        <pressure unit="hPa" value="1013.0"/>
+      </time>
+      <time from="2020-07-04T03:00:00" to="2020-07-04T09:00:00" period="1">
+        <!-- Valid from 2020-07-04T03:00:00 to 2020-07-04T09:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+        <precipitation value="0" minvalue="0" maxvalue="1.2"/>
+        <!-- Valid at 2020-07-04T03:00:00 -->
+        <windDirection deg="26.8" code="NNE" name="North-northeast"/>
+        <windSpeed mps="1.5" name="Light air"/>
+        <temperature unit="celsius" value="15"/>
+        <pressure unit="hPa" value="1014.8"/>
+      </time>
+      <time from="2020-07-04T09:00:00" to="2020-07-04T15:00:00" period="2">
+        <!-- Valid from 2020-07-04T09:00:00 to 2020-07-04T15:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-04T09:00:00 -->
+        <windDirection deg="92.7" code="E" name="East"/>
+        <windSpeed mps="1.9" name="Light breeze"/>
+        <temperature unit="celsius" value="17"/>
+        <pressure unit="hPa" value="1015.0"/>
+      </time>
+      <time from="2020-07-04T15:00:00" to="2020-07-04T21:00:00" period="3">
+        <!-- Valid from 2020-07-04T15:00:00 to 2020-07-04T21:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-04T15:00:00 -->
+        <windDirection deg="92.4" code="E" name="East"/>
+        <windSpeed mps="2.1" name="Light breeze"/>
+        <temperature unit="celsius" value="21"/>
+        <pressure unit="hPa" value="1015.6"/>
+      </time>
+      <time from="2020-07-04T21:00:00" to="2020-07-05T03:00:00" period="0">
+        <!-- Valid from 2020-07-04T21:00:00 to 2020-07-05T03:00:00 -->
+        <symbol number="2" numberEx="2" name="Fair" var="02n"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-04T21:00:00 -->
+        <windDirection deg="298.0" code="WNW" name="West-northwest"/>
+        <windSpeed mps="0.5" name="Light air"/>
+        <temperature unit="celsius" value="19"/>
+        <pressure unit="hPa" value="1015.3"/>
+      </time>
+      <time from="2020-07-05T03:00:00" to="2020-07-05T09:00:00" period="1">
+        <!-- Valid from 2020-07-05T03:00:00 to 2020-07-05T09:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-05T03:00:00 -->
+        <windDirection deg="281.9" code="WNW" name="West-northwest"/>
+        <windSpeed mps="0.9" name="Light air"/>
+        <temperature unit="celsius" value="13"/>
+        <pressure unit="hPa" value="1017.8"/>
+      </time>
+      <time from="2020-07-05T09:00:00" to="2020-07-05T15:00:00" period="2">
+        <!-- Valid from 2020-07-05T09:00:00 to 2020-07-05T15:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-05T09:00:00 -->
+        <windDirection deg="212.2" code="SSW" name="South-southwest"/>
+        <windSpeed mps="1.0" name="Light air"/>
+        <temperature unit="celsius" value="19"/>
+        <pressure unit="hPa" value="1014.8"/>
+      </time>
+      <time from="2020-07-05T15:00:00" to="2020-07-05T21:00:00" period="3">
+        <!-- Valid from 2020-07-05T15:00:00 to 2020-07-05T21:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-05T15:00:00 -->
+        <windDirection deg="87.7" code="E" name="East"/>
+        <windSpeed mps="1.9" name="Light breeze"/>
+        <temperature unit="celsius" value="22"/>
+        <pressure unit="hPa" value="1012.9"/>
+      </time>
+      <time from="2020-07-05T21:00:00" to="2020-07-06T03:00:00" period="0">
+        <!-- Valid from 2020-07-05T21:00:00 to 2020-07-06T03:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-05T21:00:00 -->
+        <windDirection deg="9.8" code="N" name="North"/>
+        <windSpeed mps="1.0" name="Light air"/>
+        <temperature unit="celsius" value="20"/>
+        <pressure unit="hPa" value="1010.3"/>
+      </time>
+      <time from="2020-07-06T03:00:00" to="2020-07-06T09:00:00" period="1">
+        <!-- Valid from 2020-07-06T03:00:00 to 2020-07-06T09:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+        <precipitation value="0" minvalue="0" maxvalue="0.5"/>
+        <!-- Valid at 2020-07-06T03:00:00 -->
+        <windDirection deg="246.0" code="WSW" name="West-southwest"/>
+        <windSpeed mps="0.5" name="Light air"/>
+        <temperature unit="celsius" value="15"/>
+        <pressure unit="hPa" value="1010.7"/>
+      </time>
+      <time from="2020-07-06T09:00:00" to="2020-07-06T15:00:00" period="2">
+        <!-- Valid from 2020-07-06T09:00:00 to 2020-07-06T15:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-06T09:00:00 -->
+        <windDirection deg="272.7" code="W" name="West"/>
+        <windSpeed mps="2.7" name="Light breeze"/>
+        <temperature unit="celsius" value="18"/>
+        <pressure unit="hPa" value="1010.6"/>
+      </time>
+      <time from="2020-07-06T15:00:00" to="2020-07-06T21:00:00" period="3">
+        <!-- Valid from 2020-07-06T15:00:00 to 2020-07-06T21:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+        <precipitation value="0"/>
+        <!-- Valid at 2020-07-06T15:00:00 -->
+        <windDirection deg="225.9" code="SW" name="Southwest"/>
+        <windSpeed mps="3.5" name="Gentle breeze"/>
+        <temperature unit="celsius" value="21"/>
+        <pressure unit="hPa" value="1009.0"/>
+      </time>
+    </tabular>
+  </forecast>
+  <weatherstation stno="0" sttype="" name="" distance="0" lat="0" lon="0" source="">
+    <!--Observasjoner er ikke lengre tilgjengelig i dette datasettet. Observations are no longer availble in this dataset-->
+    <symbol number="0" name="" time="2019-11-14T00:00:00Z"/>
+    <temperature unit="" value="0" time="2019-11-14T00:00:00Z"/>
+    <windDirection deg="0" code="" name="" time="2019-11-14T00:00:00Z"/>
+    <windSpeed mps="0" name="" time="2019-11-14T00:00:00Z"/>
+  </weatherstation>
+</weatherdata>
